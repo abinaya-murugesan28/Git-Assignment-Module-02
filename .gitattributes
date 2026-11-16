@@ -1,0 +1,6 @@
+
+# Use LF line endings for HTML files
+*.html text eol=lf
+
+# Treat PNG files as binary
+*.png binary
